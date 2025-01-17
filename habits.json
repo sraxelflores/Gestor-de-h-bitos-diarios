@@ -1,0 +1,16 @@
+{
+    "Leer 30 minutos al d\u00eda": {
+        "description": "Cada d\u00eda debo de leer durante al menos treinta minutos",
+        "progress": [
+            "2025-01-16"
+        ]
+    },
+    "Beber 3 litros de agua": {
+        "description": "Cada dia debo de beber al menos tres litros de agua",
+        "progress": []
+    },
+    "Hacer ejercicio": {
+        "description": "Hacer una actividad fisica durante al menos una hora cada dia",
+        "progress": []
+    }
+}
